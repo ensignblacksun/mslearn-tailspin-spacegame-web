@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/blacksun0738/Space%20Game%20-%20web%20-%20Tests/_apis/build/status/ensignblacksun.mslearn-tailspin-spacegame-web?branchName=failed-test)](https://dev.azure.com/blacksun0738/Space%20Game%20-%20web%20-%20Tests/_build/latest?definitionId=5&branchName=failed-test)
+
 
 # Contributing
 
